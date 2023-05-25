@@ -1,0 +1,226 @@
+<mxfile host="65bd71144e">
+    <diagram id="pWp6TFVHi78vH7-fQwd0" name="Page-1">
+        <mxGraphModel dx="1467" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="17" style="edgeStyle=none;html=1;" parent="1" source="6" target="12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="main.js" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="-82" y="10" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8" target="13" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Kids.js" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="10" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;html=1;" parent="1" source="9" target="14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="CelebrityList.js" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="10" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="10" target="15" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Pairings.js" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="650" y="10" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=none;html=1;" parent="1" source="11" target="16" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="database.js" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="850" y="10" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="main.js" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="-82" y="834" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Kids.js" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="834" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="CelebrityList.js" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="834" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Pairings.js" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="650" y="834" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="database.js" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="850" y="834" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="&lt;span style=&quot;background-color: rgb(30, 30, 30); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;Loop: build HTML string&lt;br&gt;&lt;/span&gt;" style="shape=or;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="368" width="180" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="endArrow=classic;dashed=1;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="300" y="140" as="sourcePoint"/>
+                        <mxPoint x="-20" y="140" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="31" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-20" y="110" as="sourcePoint"/>
+                        <mxPoint x="300" y="110" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="32" value="I need the function reference for generating HTML for Kids" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="-25" y="84" width="330" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="take my Kids() function" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="65" y="135" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="endArrow=classic;html=1;fontColor=#FFFFFF;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-20" y="197" as="sourcePoint"/>
+                        <mxPoint x="500" y="197" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="35" value="I need the function reference for generating HTML for Celebrities" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="131" y="173" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="endArrow=classic;dashed=1;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="501" y="234" as="sourcePoint"/>
+                        <mxPoint x="-19" y="234" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="37" value="take my Celebrities() function" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="230" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="" style="endArrow=classic;html=1;fontColor=#FFFFFF;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-20" y="285" as="sourcePoint"/>
+                        <mxPoint x="710" y="285" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="39" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;I need the function reference for generating HTML for Pairings&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="165" y="263" width="380" height="27" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="" style="endArrow=classic;dashed=1;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="710" y="323" as="sourcePoint"/>
+                        <mxPoint x="-20" y="323" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="44" value="take my Pairings() function" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="511" y="317" width="170" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="import" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="105" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="import" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="248" y="190" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="import" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="280" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="300" y="120" as="sourcePoint"/>
+                        <mxPoint x="910.694580078125" y="120" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="49" value="import data and invoke getChildren()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="95" width="220" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="" style="endArrow=classic;dashed=1;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="908" y="130" as="sourcePoint"/>
+                        <mxPoint x="300" y="130" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="51" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="500" y="210" as="sourcePoint"/>
+                        <mxPoint x="911.388916015625" y="210" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="52" value="import data and invoke get getCelebrities()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="185" width="250" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="" style="endArrow=classic;dashed=1;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="908" y="220" as="sourcePoint"/>
+                        <mxPoint x="500" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="54" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="710" y="300" as="sourcePoint"/>
+                        <mxPoint x="910" y="300" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="55" value="import getChildren(), getCelebrities()&lt;br&gt;and invoke both" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="700" y="263" width="220" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="" style="endArrow=classic;dashed=1;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="909" y="310" as="sourcePoint"/>
+                        <mxPoint x="710" y="310" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="58" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-20" y="360" as="sourcePoint"/>
+                        <mxPoint x="300" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="59" value="invoke Kids()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="85" y="335" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="Add&amp;nbsp;&lt;span style=&quot;background-color: rgb(30, 30, 30); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;font color=&quot;#dcdcaa&quot;&gt;EventListener&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot;&gt;Display child name with their wish when clicked&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="shape=or;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="410" width="190" height="85" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="" style="endArrow=classic;dashed=1;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="300" y="500" as="sourcePoint"/>
+                        <mxPoint x="-20" y="500" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="63" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-19" y="550" as="sourcePoint"/>
+                        <mxPoint x="501" y="550" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="64" value="invoke Celebrities()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="525" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="&lt;span style=&quot;background-color: rgb(30, 30, 30); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;Loop: build HTML string&lt;br&gt;&lt;/span&gt;" style="shape=or;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="501" y="555" width="180" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="Add&amp;nbsp;&lt;span style=&quot;background-color: rgb(30, 30, 30); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;font color=&quot;#dcdcaa&quot;&gt;EventListener&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot;&gt;Display sport star name with their sport type&lt;br&gt;&amp;nbsp;when clicked&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="shape=or;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="501" y="600" width="190" height="85" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="" style="endArrow=classic;dashed=1;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="500" y="690" as="sourcePoint"/>
+                        <mxPoint x="-20" y="690" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="68" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-20" y="720" as="sourcePoint"/>
+                        <mxPoint x="710" y="720" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="69" value="invoke Pairings()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="695" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="&lt;span style=&quot;background-color: rgb(30, 30, 30); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;Loop: build HTML string&lt;br&gt;&lt;/span&gt;" style="shape=or;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="710" y="725" width="180" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="" style="endArrow=classic;dashed=1;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="710" y="770" as="sourcePoint"/>
+                        <mxPoint x="-20" y="770" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75" value="Dynamically add&amp;nbsp;&lt;br&gt;HTML to the DOM" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10.5;" parent="1" vertex="1">
+                    <mxGeometry x="-21" y="782" width="171" height="33" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
