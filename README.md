@@ -1,4 +1,7 @@
 # Events and Debugging Assessment
+![image](https://github.com/SeyunChung/kids-dreams/assets/119281933/58857ba6-cb4a-4713-b087-a66f7186275a)
+
+# Events and Debugging Assessment
 
 Time to assess how well you have learned to use the debugging tools in Chrome Dev Tools, and writing click event listeners.
 
